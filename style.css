@@ -126,3 +126,13 @@ a{
     color: aqua;
 
 }
+footer{
+    margin-top: 500px;
+    padding-right: 500px ;    
+    
+}
+.credit{
+    color: bisque;
+    padding-left: 11 rem;
+    padding-top: 10rem;
+}
